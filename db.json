@@ -1,0 +1,11 @@
+{
+  "product": [
+    {
+      "id": "d5a6",
+      "Name": "laptop",
+      "Brand": "Dell",
+      "Price": "25,000",
+      "CreatedAt": "1212-12-12"
+    }
+  ]
+}
